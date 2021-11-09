@@ -4,5 +4,5 @@ namespace Michael_Gadler_Slagsmålsspel
 {
     class Program
     {
-        int
+
     }
