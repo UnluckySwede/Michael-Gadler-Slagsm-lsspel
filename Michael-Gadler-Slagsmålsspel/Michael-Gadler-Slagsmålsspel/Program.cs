@@ -34,7 +34,7 @@ while (Randomhobohp > 0 && Policehp > 0)
 
     System.Console.WriteLine("you wanna play another round to see who wins?");
     System.Console.WriteLine("          -----> Press enter <-----");
-    Console.ReadLine();
+
 
 }
 
